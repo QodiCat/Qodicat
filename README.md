@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **QodiCat/Qodicat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+
+![image](https://github.com/QodiCat/Qodicat/assets/102938592/9e474056-7428-435b-98ef-12df155eb64b)
