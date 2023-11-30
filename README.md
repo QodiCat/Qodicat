@@ -1,18 +1,14 @@
 ### Hi there 👋
 
+Welcome
 
-**QodiCat/Qodicat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m studying at the University of Science and Technology Beijing
+- 🌱 I’m currently learning AI algorithms, AIGC applications, and I'm a wild AI explorer
+- 👯 My hobbies include running, badminton, swimming
+  😄 skateboarding,cooking, reading, watching movies,
+  🤔 and exploring fun, beautiful and healing things
+- 📫 How to reach me: Email 1357016290@qq.com
 
 
-![image](https://github.com/QodiCat/Qodicat/assets/102938592/9e474056-7428-435b-98ef-12df155eb64b)
+
+
