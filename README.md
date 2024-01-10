@@ -7,7 +7,7 @@ Welcome
 - 👯 My hobbies include running, badminton, swimming
   😄 skateboarding,cooking, reading, watching movies,
   🤔 and exploring fun, beautiful and healing things
-- 📫 How to reach me:Email qodicat.outlook.com or 1357016290@qq.com
+- 📫 How to reach me:Email qodicat@outlook.com or 1357016290@qq.com
 
 
 
